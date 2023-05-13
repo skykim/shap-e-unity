@@ -1,7 +1,7 @@
 # shap-e-unity
 Visualize 3D objects made with OpenAI Shap-E
 
-![shap-e-unity_AdobeExpress](https://github.com/skykim/shap-e-unity/assets/18140805/8171527f-c9ab-4f85-a481-7b511682b521)
+[![Visualize 3D objects made with OpenAI Shap-E (Youtube)](https://img.youtube.com/vi/FlhMAYIn45E/0.jpg)](https://www.youtube.com/watch?v=FlhMAYIn45E)
 
 - Sample prompt of "Text to 3D"
   - an alligator
